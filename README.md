@@ -14,7 +14,7 @@ In this project, we will download and install VMWare workstation pro on Windows 
 
 <h2><ins>1. Downloading VMware Workstation Pro and Preparing the Windows Server 2022 ISO</ins></h2>
 
--To initiate the setup, first, download VMware Workstation Pro. Navigate to the VMware website, select "Personal use," and ensure you choose the version compatible with your operating system (Windows). Opt for the latest version available. While VMware is installing, go ahead and download the Windows Server 2022 ISO from the official Microsoft website or another reliable source and save it to your local machine. 
+- To initiate the setup, first, download VMware Workstation Pro. Navigate to the VMware website, select "Personal use," and ensure you choose the version compatible with your operating system (Windows). Opt for the latest version available. While VMware is installing, go ahead and download the Windows Server 2022 ISO from the official Microsoft website or another reliable source and save it to your local machine. 
 
   <img src="https://i.imgur.com/Q99f0YI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
