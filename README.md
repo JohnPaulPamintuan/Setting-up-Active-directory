@@ -1,7 +1,7 @@
 <h1>Setting up Active Directoy on Windows Server using Virtual Machine </h1> 
 
 <h2>Project Description:</h2>
-In this project, we will download and install VMWare workstation pro on Windows Server 2022  on VM Install Active Directory tool on Window Server 2022 <br/>
+In this project, we will download and install VMWare workstation pro on Windows Server 2022 and Install Active Directory tool on Window Server 2022 <br/>
 
 <h2>Link Used:</h2>
 
